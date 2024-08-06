@@ -1,1 +1,1 @@
-nildo-santos
+Linguagens Utilizadas: HTML: Usado para estruturar a interface web do projeto. CSS: Utilizado para estilizar e personalizar o design da página. JavaScript: Implementado para adicionar interatividade e funcionalidades dinâmicas à aplicação.
